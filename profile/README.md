@@ -19,6 +19,11 @@ Student-led amateur radio and engineering organization at Gulf Breeze High Schoo
 
 <br>
 
+## Related Projects
+- [Wireless Attitude Telemetry](https://github.com/JamesValencia45/wireless-attitude-telemetry)
+
+<br>
+
 ## Planned Projects
 - High-altitude weather balloon payloads
 - APRS tracking systems
