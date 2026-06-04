@@ -15,7 +15,7 @@ Student-led amateur radio and engineering organization at Gulf Breeze High Schoo
 <br>
 
 ## Active Repositories
-- [Weather Balloon Telemetry](https://[https://github.com/GBHS-Amateur-Radio/weather-balloon-telemetry])
+- [Weather Balloon Telemetry](https://github.com/GBHS-Amateur-Radio/weather-balloon-telemetry)
 
 <br>
 
