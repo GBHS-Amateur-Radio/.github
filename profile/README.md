@@ -33,8 +33,8 @@ Student-led amateur radio and engineering organization at Gulf Breeze High Schoo
 
 ## Getting Involved
 
-Club members can contribute to documentation, 
-testing, and project development.
+Want to help with a project? Pick a repository that interests you and get involved!
 
-Each project will have its own repository 
-where members can follow progress and contribute.
+You can contribute through research, documentation, programming, testing, hardware, or project development. No prior experience is required.
+
+Each project has its own repository where we'll document our progress and contributions.
