@@ -35,6 +35,6 @@ Student-led amateur radio and engineering organization at Gulf Breeze High Schoo
 
 Want to help with a project? Pick a repository that interests you and get involved!
 
-You can contribute through research, documentation, programming, testing, hardware, or project development. No prior experience is required.
+You can contribute through documentation, testing, and project development. No prior experience is required.
 
 Each project has its own repository where we'll document our progress and contributions.
