@@ -30,3 +30,11 @@ Student-led amateur radio and engineering organization at Gulf Breeze High Schoo
 - ISS communication attempts
 - Long-range telemetry experiments
 - RF propagation testing
+
+## Getting Involved
+
+Club members can contribute to documentation, 
+testing, and project development.
+
+Each project will have its own repository 
+where members can follow progress and contribute.
