@@ -31,7 +31,7 @@ Student-led amateur radio and engineering organization at Gulf Breeze High Schoo
 - Long-range telemetry experiments
 - RF propagation testing
 
-## Getting Involved
+## Get Involved!
 
 Want to help with a project? Pick a repository that interests you and get involved!
 
